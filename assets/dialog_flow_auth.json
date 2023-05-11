@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "botardo-dspk",
+  "private_key_id": "3e2a6bf8dd05f7c2c7ffde9432a961f49a2d02f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDeWXwF0agufUAE\nUOIMbIEKEuT8csn8WV/1Ru5RPVq9Rmv9edaZDIUgcxc7jCR6aoSYVrFZ/LG/b3x7\nOj1Uws0T9WOBGfd60/oZR6sHuiozvxZeBPbfhSiiI7jO/43mdhYQ2EqphcsJbuQI\nt6d1HDibE+M47ZoLvirgjwKQ/wHhLWcUp93s3dQkWZ8v55e7AQ37qSJtN4KWW29b\nOzQy9grLzxF+ZW+cMo0fvS+hRl3/vmo2jRPpaFxc4CylVvvvi4uQCncl+e9AupDX\nULRf1vCGGdoDTa1O8X8YKaOJSADaQ1EU0tPxvumZjr/hk5S5qB2l6wIvQmDXXyKm\nxb+Cr4z/AgMBAAECggEAFwobr/irs3bWrCZ7aIEnv9T5tZo+tBoeDNWBj+51GWQT\ngDY169xLFnPb25eSbL2JKXCLkQD+TrwCdecGKuMX3/JkkfXlrxcJn8FNh2VIG944\nNvF5vpXW14eEY1fsqrg1Yh/KC2sp1juPf8MT+YO9Q9MZj4ZjQ3CRkyeObbAsJYUJ\nlCNaarERjnu0gu0lPlJqdHXSMbcVLhFfbmjWGSv3ACe9oC/OoHVqUIz6wkxtFyOm\nGak7pyAQnqJ8PabUcYIu+2eZMz/ETKBYVgkbLJ/UHpw+DwglArQhp31STtYfH7e6\nmvN07AWV38MbferMCuhcs/vmftPJ+H0LP6VQ4+WpMQKBgQDyn46zeIouD3/ScHN3\nADG15TPPkQxgKuos5YRSmMsKB3PXGSjO2Z6rU8l27PJ5p4vm/+MWXMJ7EcQu6mdZ\nYHBpZtAfcHKAlJNeKDDKzfbGYpKsL7lRepboduY0zJovDgolmq6GU6lBzwEf0FSK\nD736n/st4tFntmBYZXXjYlDjbwKBgQDqm8dlpqQzI3/FbFlZhDrfhaNFhRhFRzzn\nUIcklBcHeQOrpIJLXUaNqZ+Rc0+MX8JgogVz1o8biqn8IRHMWmsdumytilQZOlzo\nA+868DOwCAhbYvfiwyB55+djZYYug/SsVZD1pOBPgi/Csr7iCVtNObk5hXlH1OOV\nBMEQs17ncQKBgGzM6oRG4MhJAQwQi2bo+mHUV8iUBhW2CO97OTyE8kAcGXFzAd7I\nriOsXiLrnMy7OryrMV2c2UWxMOXNDe2BlsddaKVAmshYWEGYClFXzXsnRxjaCeOk\n8rlqYE97FQVW6Wv1kqAAMl2lg56NoOuMpagXR99K4Jb+rPPXA+ek9hsXAoGALTk0\nGZMiybzJD2xQWOIVWyruiyMZx5jw04IBWvq06brZC0gd2Zs0U3BkEuyQY/W9iVUS\nCf9M/LkhBTn2rVasmUFrW5Rzm51VdV/0yH6u5/rUaZFNSUflxbn/L3jNgb/r9SBV\nXhSXLJxiynwcMYQuNlevLbhd5YvTBtGwyaBZ5fECgYAh/JClzjzl1jEBliyIEXRx\n33rRW/ErEyLN2QiQffv914Za8dZUE1Uc5ZKXtb62kdWOU34eNJwsitpn4uqDxIeb\n5iSr/yVcssnxi5xuRXq1lDp9deanFKBB6rWqbYwY+mYv2vUCr2T3YwO73e9jiCk+\n9Nq5ohiVwhSvuRkPSZclyg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "leo-824@botardo-dspk.iam.gserviceaccount.com",
+  "client_id": "116908425980647865297",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leo-824%40botardo-dspk.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
